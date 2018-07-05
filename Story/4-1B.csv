@@ -1,0 +1,29 @@
+﻿4,25,,,
+"I've been flying for quite some time, already.",TRUE,FALSE,FaceMarisa_no2,FaceKage_no
+It seems like I've been flying around in circles from the start.,TRUE,FALSE,FaceMarisa_lo,FaceKage_no
+Who's the one that's been emitting all this strange light this whole time?,TRUE,FALSE,FaceMarisa_lo,FaceKage_no
+This is the mirror world.,FALSE,TRUE,FaceMarisa_lo,FaceKage_dp
+You have fallen right into my trap.,FALSE,TRUE,FaceMarisa_no,FaceKage_dp
+"This has to be a joke, right? How could this happen?",TRUE,FALSE,FaceMarisa_an,FaceKage_no
+Why didn't I realize it at all?,TRUE,FALSE,FaceMarisa_an,FaceKage_no
+You don't know?,FALSE,TRUE,FaceMarisa_an,FaceKage_sw
+It's because of the meteor fragments.,FALSE,TRUE,FaceMarisa_no,FaceKage_sw
+The light radiated by them has made you lose your way.,FALSE,TRUE,FaceMarisa_no,FaceKage_no
+"Actually, these are the things that I used to enhance my magic power.",TRUE,FALSE,FaceMarisa_hp,FaceKage_no
+You've been collecting too much for a human to take.,FALSE,TRUE,FaceMarisa_no,FaceKage_sw
+That is why I am able to trap you easily.,FALSE,TRUE,FaceMarisa_no,FaceKage_dp
+Ah……,TRUE,FALSE,FaceMarisa_lo,FaceKage_no
+I didn't know that these meteor fragments are such troublesome things.,TRUE,FALSE,FaceMarisa_lo,FaceKage_no
+I guess I gotta be more careful next time!,TRUE,FALSE,FaceMarisa_no,FaceKage_no
+There won't be a next time.,FALSE,TRUE,FaceMarisa_no,FaceKage_sw
+Just wait here obediently until the end of the prayer ritual.,FALSE,TRUE,FaceMarisa_no,FaceKage_hp
+Are you sure about that?,TRUE,FALSE,FaceMarisa_sw,FaceKage_no
+?,FALSE,TRUE,FaceMarisa_sw,FaceKage_sp
+I can leave as long as I beat you right?,TRUE,FALSE,FaceMarisa_sw,FaceKage_no
+……,FALSE,TRUE,FaceMarisa_no,FaceKage_sp
+"That is correct",FALSE,TRUE,FaceMarisa_no,FaceKage_dp
+"but can you do it?",FALSE,TRUE,FaceMarisa_no,FaceKage_sw
+There is nothing that firepower cannot solve!,TRUE,FALSE,FaceMarisa_hp2,FaceKage_no
+What an arrogant witch!,FALSE,TRUE,FaceMarisa_no,FaceKage_sw
+"Since you are so eager to die,",FALSE,TRUE,FaceMarisa_no,FaceKage_dp
+I shall send you off right away!,FALSE,TRUE,FaceMarisa_no,FaceKage_bk

@@ -1,0 +1,18 @@
+﻿3,15,,,
+"You there! Human, wait up!",FALSE,TRUE,FaceSanae_hp,FaceAmi01
+"Oh, it's a youkai.",TRUE,FALSE,FaceSanae_hp,FaceAmi01
+What's the matter?,TRUE,FALSE,FaceSanae_no2,FaceAmi01
+Let's set up the party now!,FALSE,TRUE,FaceSanae_no2,FaceAmi05
+Party? You mean right now?,TRUE,FALSE,FaceSanae_sw,FaceAmi05
+"Yes, yes. There are still so many people left to invite.",FALSE,TRUE,FaceSanae_sw,FaceAmi07
+"You should come, toooooo!",FALSE,TRUE,FaceSanae_sw,FaceAmi02
+"Wow, so energetic... Shouldn't youkai be sleeping at this hour?",TRUE,FALSE,FaceSanae_sw,FaceAmi02
+"Sorry to say, but I have something more important to do right now.",TRUE,FALSE,FaceSanae_no,FaceAmi02
+Eh? Are you in that much of a hurry?,FALSE,TRUE,FaceSanae_no,FaceAmi01
+"Actually, it doesn't really matter",FALSE,TRUE,FaceSanae_no,FaceAmi04
+because we are starting the party right away!,FALSE,TRUE,FaceSanae_no,FaceAmi05
+"I will seriously hurt you if you hinder me, you know?",TRUE,FALSE,FaceSanae_sw,FaceAmi05
+"On this magical shooting star night,",FALSE,TRUE,FaceSanae_sw,FaceAmi04
+let's release our danmaku,FALSE,TRUE,FaceSanae_sw,FaceAmi01
+and make some noise!,FALSE,TRUE,FaceSanae_sw,FaceAmi05
+This isn't good! It seems that I have no choice but to exterminate you.,TRUE,FALSE,FaceSanae_an2,FaceAmi05

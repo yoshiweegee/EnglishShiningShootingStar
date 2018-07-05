@@ -1,0 +1,17 @@
+﻿2,3,,,
+Oh yeah!,TRUE,FALSE,FaceMarisa_no2,FaceRika_no
+A lucky win!,TRUE,FALSE,FaceMarisa_hp,FaceRika_no
+I didn’t expect there is such powerful human living in Gensokyo.,FALSE,TRUE,FaceMarisa_hp,FaceRika_lo2
+How careless of me.,FALSE,TRUE,FaceMarisa_no,FaceRika_lo
+You're pretty strong too!,TRUE,FALSE,FaceMarisa_no,FaceRika_lo
+I’m only an ordinary hermit among the other hermits though.,FALSE,TRUE,FaceMarisa_no,FaceRika_lo2
+So you are a hermit after all.,TRUE,FALSE,FaceMarisa_sp,FaceRika_lo2
+"Speaking of hermits, you remind me of Miko.",TRUE,FALSE,FaceMarisa_no,FaceRika_lo2
+Do you mean Toyosatomimi no Miko?,FALSE,TRUE,FaceMarisa_no,FaceRika_lo2
+"Well, my practice of Hermit's Ways is different from other hermits.",FALSE,TRUE,FaceMarisa_no,FaceRika_lo
+I am a hermit that practices the true Way of hermits.,FALSE,TRUE,FaceMarisa_no,FaceRika_lo
+Really? That's great!,TRUE,FALSE,FaceMarisa_hp,FaceRika_lo
+"Well then, as you’ve promised,",TRUE,FALSE,FaceMarisa_no2,FaceRika_lo
+care taking me to visit the Outside World?,TRUE,FALSE,FaceMarisa_hp2,FaceRika_lo
+I don’t remember making that promise.,FALSE,TRUE,FaceMarisa_no,FaceRika_lo
+Is that so...,TRUE,FALSE,FaceMarisa_lo,FaceRika_lo

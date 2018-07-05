@@ -1,0 +1,29 @@
+﻿5,25,,,,,
+I didn't notice that we were led to the bamboo forest by the shooting stars.,TRUE,FaceReimu_no2,FALSE,Facemaru_no,FALSE,FaceRakuki_no
+Reimu! Someone's coming!,FALSE,FaceReimu_no,TRUE,Facemaru_sp,FALSE,FaceRakuki_no
+The area ahead is off-limits.,FALSE,FaceReimu_no,FALSE,Facemaru_sp,TRUE,FaceRakuki_no
+"We've encountered a blocking, huh.",FALSE,FaceReimu_no,TRUE,Facemaru_sw,FALSE,FaceRakuki_no
+"Who are you, and why should we stop?",TRUE,FaceReimu_sw,FALSE,Facemaru_sw,FALSE,FaceRakuki_no
+My name is Rakuki Momosame,FALSE,FaceReimu_sw,FALSE,Facemaru_sw,TRUE,FaceRakuki_no
+"This has nothing to do with you,",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceRakuki_an2
+"so please go back, shrine maiden.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceRakuki_no
+"Since you know that I'm a shrine maiden,",TRUE,FaceReimu_hp,FALSE,Facemaru_no,FALSE,FaceRakuki_no
+it's my responsibility to solve this incident.,TRUE,FaceReimu_no2,FALSE,Facemaru_no,FALSE,FaceRakuki_no
+Let me through before I have to take action.,TRUE,FaceReimu_an,FALSE,Facemaru_no,FALSE,FaceRakuki_no
+"Reimu, calm down!",FALSE,FaceReimu_an,TRUE,Facemaru_sw,FALSE,FaceRakuki_no
+"If by incident you mean the meteors,",FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceRakuki_no2
+soon they'll disappear.,FALSE,FaceReimu_no,FALSE,Facemaru_sw,TRUE,FaceRakuki_dp
+Do not worry about it.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceRakuki_hp
+Looks like our words couldn't get through to her.,FALSE,FaceReimu_no,TRUE,Facemaru_sw,FALSE,FaceRakuki_no2
+Someone is definitely planning something behind the scenes.,FALSE,FaceReimu_no,TRUE,Facemaru_no2,FALSE,FaceRakuki_no2
+"Once we have the time,",FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceRakuki_dp
+"we will leave peacefully, so—",FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceRakuki_no2
+So we'll just defeat you for the truth.,TRUE,FaceReimu_an2,FALSE,Facemaru_no,FALSE,FaceRakuki_no2
+How naive!,FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceRakuki_an
+"Faced with this Kotobiki Mountain Bow,",FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceRakuki_no
+it will be futile no matter what you do.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceRakuki_an
+How do we know if we don't try?,TRUE,FaceReimu_hp,FALSE,Facemaru_an,FALSE,FaceRakuki_no
+Don't underestimate us!,FALSE,FaceReimu_no,TRUE,Facemaru_an2,FALSE,FaceRakuki_no
+"Since you are so anxious to know,",FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceRakuki_dp
+go find out when you go to Hell!,FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceRakuki_bk
+So we end up fighting again.,FALSE,FaceReimu_an,TRUE,Facemaru_sw,FALSE,FaceRakuki_bk

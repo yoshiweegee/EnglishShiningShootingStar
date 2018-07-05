@@ -1,0 +1,19 @@
+﻿2,3,,,
+"Haha, I win!",TRUE,FALSE,FaceSanae_hp,FaceRika_lo
+Looks like I am better at wind manipulation!,TRUE,FALSE,FaceSanae_hp,FaceRika_lo
+I was careless.,FALSE,TRUE,FaceSanae_hp,FaceRika_lo2
+It seems that the people in Gensokyo are not the ordinary folks.,FALSE,TRUE,FaceSanae_no,FaceRika_lo
+Let's call it a day for today.,FALSE,TRUE,FaceSanae_no,FaceRika_lo
+What? Trying to run away?,TRUE,FALSE,FaceSanae_an2,FaceRika_lo
+Let's meet again another time!,FALSE,TRUE,FaceSanae_an2,FaceRika_lo2
+Damn your ability to pop in and out as you please.,TRUE,FALSE,FaceSanae_an,FaceRika_lo2
+That’s just too convenient!,TRUE,FALSE,FaceSanae_lo,FaceRika_lo2
+"I've been wanting to buy something from Outside for some time, too.",TRUE,FALSE,FaceSanae_lo,FaceRika_lo2
+Oh?,FALSE,TRUE,FaceSanae_lo,FaceRika_no
+Do you need my help?,FALSE,TRUE,FaceSanae_lo,FaceRika_no
+"Well, I can give you some souvenirs from the Outside World if you wish.",FALSE,TRUE,FaceSanae_no,FaceRika_no2
+Really? That’s awfully nice of you.,TRUE,FALSE,FaceSanae_hp,FaceRika_no
+But be careful not to get noticed.,FALSE,TRUE,FaceSanae_hp,FaceRika_dp
+A secret deal? That's awesome!,TRUE,FALSE,FaceSanae_hp,FaceRika_dp
+But in exchange……,FALSE,TRUE,FaceSanae_no,FaceRika_dp
+What?,TRUE,FALSE,FaceSanae_sp,FaceRika_dp

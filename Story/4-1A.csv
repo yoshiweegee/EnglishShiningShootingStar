@@ -1,0 +1,32 @@
+﻿9,27,,,,,
+Why…,TRUE,FaceReimu_sw,FALSE,Facemaru_no,FALSE,FaceKage_no
+We can't get out of here.,TRUE,FaceReimu_sw,FALSE,Facemaru_no,FALSE,FaceKage_no
+"Furthermore, we've been going in circles from the beginning.",TRUE,FaceReimu_sw,FALSE,Facemaru_no,FALSE,FaceKage_no
+I'm afraid we're caught in the enemy's trap.,FALSE,FaceReimu_no,TRUE,Facemaru_no,FALSE,FaceKage_no
+We have got to find a way to get out of here.,FALSE,FaceReimu_no,TRUE,Facemaru_no2,FALSE,FaceKage_no
+That's right.,FALSE,FaceReimu_no,FALSE,Facemaru_no2,TRUE,FaceKage_dp
+You've entered right into my trap.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_no
+Who are you!? What is this place!?,TRUE,FaceReimu_sp,FALSE,Facemaru_no,FALSE,FaceKage_no
+This is the mirror world.,FALSE,FaceReimu_sp,FALSE,Facemaru_no,TRUE,FaceKage_dp
+My name is Kage Mimeima.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_no
+So are you the one who trapped us?,FALSE,FaceReimu_no,TRUE,Facemaru_an,FALSE,FaceKage_no
+Indeed.,FALSE,FaceReimu_no,FALSE,Facemaru_an,TRUE,FaceKage_sw
+Then hurry up and get us out!,TRUE,FaceReimu_an,FALSE,Facemaru_no,FALSE,FaceKage_no
+I can't.,FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceKage_hp
+"The ceremony will take some time,",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_no
+so here you'll rest while you wait.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_sw
+She definitely won't let us out that easily.,FALSE,FaceReimu_no,TRUE,Facemaru_no,FALSE,FaceKage_sw
+I guess we have to find another way.,FALSE,FaceReimu_no,TRUE,Facemaru_sw,FALSE,FaceKage_no
+"Since it looks like you may not know,",TRUE,FaceReimu_no,FALSE,Facemaru_no,FALSE,FaceKage_no
+I am an expert when it comes to barriers!,TRUE,FaceReimu_no2,FALSE,Facemaru_no,FALSE,FaceKage_no
+Reimu sure is reliable.,FALSE,FaceReimu_no2,TRUE,Facemaru_hp,FALSE,FaceKage_no
+Oh? Is that so?,FALSE,FaceReimu_no,FALSE,Facemaru_hp,TRUE,FaceKage_sw
+"Since you are an expert, then it should be easy to solve this issue, right?",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_sw
+"Yup, that is correct!",TRUE,FaceReimu_no,FALSE,Facemaru_no,FALSE,FaceKage_sw
+The way of solving it is simple.,TRUE,FaceReimu_no,FALSE,Facemaru_no,FALSE,FaceKage_no
+I'll defeat you!,TRUE,FaceReimu_an2,FALSE,Facemaru_no,FALSE,FaceKage_no
+How can this this considered as a way to solve it!,FALSE,FaceReimu_an2,TRUE,Facemaru_sw,FALSE,FaceKage_no
+Hahahahaha!,FALSE,FaceReimu_no,FALSE,Facemaru_sw,TRUE,FaceKage_hp
+"What a conclusion reached by an expert.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_sw
+"You, the pair of an ignorant miko and a fragile inchling,",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_dp
+"if you think you can do it, go ahead and try!",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceKage_bk

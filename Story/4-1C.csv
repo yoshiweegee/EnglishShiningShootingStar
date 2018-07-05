@@ -1,0 +1,30 @@
+﻿5,25,,,
+Why…,TRUE,FALSE,FaceSanae_sw,FaceKage_no
+I feel like I’ve been flying around in circles from the start,TRUE,FALSE,FaceSanae_sw,FaceKage_no
+and I just can't get out of here;,TRUE,FALSE,FaceSanae_lo,FaceKage_no
+"besides, what are all these strange lights?",TRUE,FALSE,FaceSanae_lo,FaceKage_no
+This is the mirror world.,FALSE,TRUE,FaceSanae_no,FaceKage_dp
+You've entered my trap.,FALSE,TRUE,FaceSanae_no,FaceKage_no
+Trap? How can this be!?,TRUE,FALSE,FaceSanae_sp,FaceKage_no
+Since when?,TRUE,FALSE,FaceSanae_sp,FaceKage_no
+It's because of those meteor fragments you were collecting.,FALSE,TRUE,FaceSanae_sp,FaceKage_no
+Those lights emitted by them has made you lose your way.,FALSE,TRUE,FaceSanae_sp,FaceKage_hp
+Light!?,TRUE,FALSE,FaceSanae_sp,FaceKage_hp
+"Oh, you don't know?",FALSE,TRUE,FaceSanae_sp,FaceKage_sw
+Those fragments contain a great amount of magic power.,FALSE,TRUE,FaceSanae_sp,FaceKage_dp
+"For ordinary humans like you, collecting too many of those will make you lose your way.",FALSE,TRUE,FaceSanae_sp,FaceKage_no
+"So yes, it is very easy to entrap you.",FALSE,TRUE,FaceSanae_sp,FaceKage_sw
+How can this be…,TRUE,FALSE,FaceSanae_sp,FaceKage_sw
+Are you still confused?,FALSE,TRUE,FaceSanae_sw,FaceKage_sw
+"Anyway, it doesn’t really matter anymore.",FALSE,TRUE,FaceSanae_sw,FaceKage_dp
+"I am sure the elder sister has already had enough time to prepare the prayer ritual.",FALSE,TRUE,FaceSanae_sw,FaceKage_hp
+Just what in the world are you guys planning!?,TRUE,FALSE,FaceSanae_an2,FaceKage_hp
+It is none of your concern.,FALSE,TRUE,FaceSanae_an2,FaceKage_sw
+I'll let you go once the prayer ritual has ended.,FALSE,TRUE,FaceSanae_an2,FaceKage_dp
+I'll not wait and let you do as you please.,TRUE,FALSE,FaceSanae_an,FaceKage_dp
+"Since the fragments no longer confuse me,",TRUE,FALSE,FaceSanae_an,FaceKage_dp
+I'll use my own strength to escape!,TRUE,FALSE,FaceSanae_an2,FaceKage_dp
+Is that so?,FALSE,TRUE,FaceSanae_an2,FaceKage_sw
+What an ignorant human you are.,FALSE,TRUE,FaceSanae_an2,FaceKage_sw
+"Well then, I shall mercifully",FALSE,TRUE,FaceSanae_an2,FaceKage_dp
+bury you in this mirror world.,FALSE,TRUE,FaceSanae_an2,FaceKage_bk

@@ -1,0 +1,19 @@
+﻿3,17,,,
+"This is as far as you can go, miss witch!",FALSE,TRUE,FaceMarisa_sp,FaceRakuki_an2
+Eh? A weird person appears!,TRUE,FALSE,FaceMarisa_sp,FaceRakuki_an2
+I am not a weird person!,FALSE,TRUE,FaceMarisa_sp,FaceRakuki_an
+I am Rakuki.,FALSE,TRUE,FaceMarisa_sp,FaceRakuki_an
+Odd to see a longbow archer around here.,TRUE,FALSE,FaceMarisa_no,FaceRakuki_an
+"Are you here to hinder me, too?",TRUE,FALSE,FaceMarisa_sw,FaceRakuki_an
+"Yes, I had an agreement with Sis earlier……",FALSE,TRUE,FaceMarisa_sw,FaceRakuki_dp
+"So no matter what, you are not allowed to move forward.",FALSE,TRUE,FaceMarisa_sw,FaceRakuki_an2
+"Well, I'm not interested in the things that lie ahead.",TRUE,FALSE,FaceMarisa_no,FaceRakuki_an2
+"I'm just here to collect meteor fragments,",TRUE,FALSE,FaceMarisa_hp,FaceRakuki_an2
+so could you let me pass? Pretty please?,TRUE,FALSE,FaceMarisa_hp2,FaceRakuki_an2
+"If you want to, then you will have to ask my bow!",FALSE,TRUE,FaceMarisa_hp2,FaceRakuki_dp
+It's just a bow.,TRUE,FALSE,FaceMarisa_hp,FaceRakuki_dp
+"Well, let's see if you're a match for my magic…",TRUE,FALSE,FaceMarisa_hp2,FaceRakuki_dp
+How foolish!,FALSE,TRUE,FaceMarisa_hp2,FaceRakuki_an
+That kind of kitty-level magic you've shown me is useless!,FALSE,TRUE,FaceMarisa_hp2,FaceRakuki_an
+I shall bring you fear and regret.,FALSE,TRUE,FaceMarisa_hp2,FaceRakuki_dp
+Perish!,FALSE,TRUE,FaceMarisa_hp2,FaceRakuki_bk

@@ -1,0 +1,33 @@
+﻿10,27,,,,,
+There are more trees around the way.,TRUE,FaceReimu_sw,FALSE,Facemaru_no,FALSE,FaceSeiryuu_no
+"Yes, it seems that our sight has been blocked.",FALSE,FaceReimu_sw,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_no
+Maybe there are bugs somewhere.,TRUE,FaceReimu_no2,FALSE,Facemaru_sw,FALSE,FaceSeiryuu_no
+You have to look out for them.,TRUE,FaceReimu_no,FALSE,Facemaru_no,FALSE,FaceSeiryuu_no
+"Come on, I'm not afraid of the bugs…",FALSE,FaceReimu_no,TRUE,Facemaru_hp,FALSE,FaceSeiryuu_no
+Look! A spider!,TRUE,FaceReimu_sp,FALSE,Facemaru_hp,FALSE,FaceSeiryuu_no
+Ahh!,FALSE,FaceReimu_sp,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_no
+Hahahahaha! You're scared!,TRUE,FaceReimu_hp,FALSE,Facemaru_sw,FALSE,FaceSeiryuu_no
+"That wasn't funny, Reimu!",FALSE,FaceReimu_hp,TRUE,Facemaru_an2,FALSE,FaceSeiryuu_no
+What's that noise?,FALSE,FaceReimu_no2,FALSE,Facemaru_no,TRUE,FaceSeiryuu_sw
+A human? How could a human come to these faraway woods?,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceSeiryuu_sp
+A youkai? Do you want to stop us?,TRUE,FaceReimu_sp,FALSE,Facemaru_no,FALSE,FaceSeiryuu_sp
+You'll regret it—,TRUE,FaceReimu_an,FALSE,Facemaru_no,FALSE,FaceSeiryuu_no
+"Calm down, Reimu!",FALSE,FaceReimu_an,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_no
+We're here to investigate the meteor fragments.,FALSE,FaceReimu_no,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_no
+Do you know anything?,FALSE,FaceReimu_no,TRUE,Facemaru_no2,FALSE,FaceSeiryuu_no
+Meteor fragments?,FALSE,FaceReimu_no,FALSE,Facemaru_no2,TRUE,FaceSeiryuu_sp
+"Indeed, I can feel a powerful magic source coming from these fragments.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceSeiryuu_no
+"For humans, it's not a good thing.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceSeiryuu_dp
+"Then, do you know who summoned all these shooting stars?",FALSE,FaceReimu_no,TRUE,Facemaru_no2,FALSE,FaceSeiryuu_dp
+I don't know about this;,FALSE,FaceReimu_no,FALSE,Facemaru_no2,TRUE,FaceSeiryuu_no
+"however, these powerful magical fragments",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceSeiryuu_no
+are valuable to youkai.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceSeiryuu_dp
+Are you trying to snatch away all these meteor fragments?,TRUE,FaceReimu_an,FALSE,Facemaru_no,FALSE,FaceSeiryuu_no
+Go away before I get mad!,TRUE,FaceReimu_an2,FALSE,Facemaru_no,FALSE,FaceSeiryuu_no
+……,FALSE,FaceReimu_an,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_no
+…… ,FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceSeiryuu_sw
+I wonder when humans,FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceSeiryuu_no
+started to become so arrogant towards youkai.,FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceSeiryuu_dp
+You're underestimating me.,FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceSeiryuu_dp
+It seems I'll have to make you understand,FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceSeiryuu_dp
+the true power of youkai!,FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceSeiryuu_sw

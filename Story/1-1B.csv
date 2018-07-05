@@ -1,0 +1,13 @@
+﻿3,10,,,
+Pretty sure some meteor fragments fell around this area……,TRUE,FALSE,FaceMarisa_sp,FaceAmi05
+I can't find them……,TRUE,FALSE,FaceMarisa_lo,FaceAmi05
+"Found youuuuu! You are invited to the party, humaaan!",FALSE,TRUE,FaceMarisa_lo,FaceAmi05
+"Huh? What the heck? Oh, it's just a fairy.",TRUE,FALSE,FaceMarisa_sw,FaceAmi05
+"Hey, wait, don’t fly away! Come join our party!",FALSE,TRUE,FaceMarisa_sw,FaceAmi03
+"Sorry, I'm very busy.",TRUE,FALSE,FaceMarisa_hp,FaceAmi03
+"Hinder me further, and I'll severely beat you up.",TRUE,FALSE,FaceMarisa_hp2,FaceAmi03
+Are you really that busy?,FALSE,TRUE,FaceMarisa_hp2,FaceAmi05
+"Yeah, very busy.",TRUE,FALSE,FaceMarisa_no,FaceAmi05
+"Aaa… Though it is a bit early, let’s start it now!",FALSE,TRUE,FaceMarisa_no,FaceAmi06
+The party for our super busy lady!,FALSE,TRUE,FaceMarisa_no,FaceAmi04
+"If that's how it's gonna be…, I'm gonna beat you up and teach you a lesson, da-ze!",TRUE,FALSE,FaceMarisa_sw,FaceAmi04

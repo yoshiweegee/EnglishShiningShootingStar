@@ -1,0 +1,24 @@
+﻿16,21,,,
+Meteor fragments have been falling into this jungle…,TRUE,FALSE,FaceMarisa_sp,FaceSeiryuu_sp
+The trees in this forest are so thick and dense that collecting them's gonna be a pain.,TRUE,FALSE,FaceMarisa_lo,FaceSeiryuu_sp
+Better hurry and find a place where I can actually see anything; if not…,TRUE,FALSE,FaceMarisa_lo,FaceSeiryuu_sp
+You're…human…?,FALSE,TRUE,FaceMarisa_lo,FaceSeiryuu_sp
+"Currently, yeees.",TRUE,FALSE,FaceMarisa_hp,FaceSeiryuu_sp
+Why would a human come to this faraway willow?,FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_no
+"I'd decided to search for the meteor fragments by detecting the magic they released…, but then…",TRUE,FALSE,FaceMarisa_no2,FaceSeiryuu_no
+I lost my way…,TRUE,FALSE,FaceMarisa_hp2,FaceSeiryuu_no
+Huh…?,FALSE,TRUE,FaceMarisa_hp2,FaceSeiryuu_sw
+"If it's okay with you, could you lead the way, da-ze?",TRUE,FALSE,FaceMarisa_hp,FaceSeiryuu_sw
+"Eh heh. Of course,",FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_no
+"but in exchange,",FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_hp
+leave your meteor fragments here.,FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_dp
+I can't give you those.,TRUE,FALSE,FaceMarisa_no,FaceSeiryuu_dp
+"I bet you must have been after these from the beginning, right?",TRUE,FALSE,FaceMarisa_sw,FaceSeiryuu_dp
+Youkai of the Forest?,TRUE,FALSE,FaceMarisa_sw,FaceSeiryuu_dp
+You've seen through to my intention?,FALSE,TRUE,FaceMarisa_sw,FaceSeiryuu_no
+I see that you are not a simple-minded human after all.,FALSE,TRUE,FaceMarisa_sw,FaceSeiryuu_dp
+Do you think a lonely human girl like me would wander around this faraway willow alone?,TRUE,FALSE,FaceMarisa_no,FaceSeiryuu_dp
+"Then, how about your Master Spark emblem? It is fine as an exchange, too…",FALSE,TRUE,FaceMarisa_no,FaceSeiryuu_sp
+"That isn't okay, either!",TRUE,FALSE,FaceMarisa_an,FaceSeiryuu_sp
+"Is that so? Then,",FALSE,TRUE,FaceMarisa_an,FaceSeiryuu_dp
+leave your life here!,FALSE,TRUE,FaceMarisa_an,FaceSeiryuu_sw

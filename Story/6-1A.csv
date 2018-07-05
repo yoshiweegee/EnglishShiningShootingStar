@@ -1,0 +1,47 @@
+﻿7,39,,,,,
+"Look Reimu, such beautiful stars.",FALSE,FaceReimu_no,TRUE,Facemaru_hp,FALSE,FaceTensei_no
+You have to be more cautious.,TRUE,FaceReimu_no2,FALSE,Facemaru_no,FALSE,FaceTensei_no
+The light emitted from the stars might confuse you,TRUE,FaceReimu_no,FALSE,Facemaru_no,FALSE,FaceTensei_no
+just like that certain moon lady.,TRUE,FaceReimu_an,FALSE,Facemaru_no,FALSE,FaceTensei_no
+"You worry too much,",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+red-white shrine maiden.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_hp
+Who are you?,FALSE,FaceReimu_no,TRUE,Facemaru_sp,FALSE,FaceTensei_no
+My name is Tensei Muriya.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_no
+I'm the Star God.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+So it's you!? How dare you take away people's lives!,TRUE,FaceReimu_an2,FALSE,Facemaru_no,FALSE,FaceTensei_dp
+People's lives?,FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceTensei_sp
+"Sorry, but I do not understand what you are saying.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_sw
+"I would never do that sort of thing, you know?",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_sw
+Still making excuses?,TRUE,FaceReimu_an2,FALSE,Facemaru_no,FALSE,FaceTensei_sw
+"Calm down, Reimu! Perhaps we made a mistake?",FALSE,FaceReimu_an2,TRUE,Facemaru_sw,FALSE,FaceTensei_no
+"I am a God that can realize dreams,",FALSE,FaceReimu_an,FALSE,Facemaru_sw,TRUE,FaceTensei_dp
+but I only respond to the sincerest prayer.,FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceTensei_no
+Every star in the sky has its own soul.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_no
+"To accumulate power and realize dreams using stars, one must use his or her own soul as a price.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_hp
+This is the way to balance the cosmic law of energy.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+So are you using people's souls?,TRUE,FaceReimu_an,FALSE,Facemaru_no,FALSE,FaceTensei_no
+People's souls?,FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceTensei_sp
+You seem to be mistaken.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_sw
+?,FALSE,FaceReimu_no,TRUE,Facemaru_sp,FALSE,FaceTensei_sw
+"At the cost of one's soul to realize dreams, the burden falls to the one who prayed",FALSE,FaceReimu_no,FALSE,Facemaru_sp,TRUE,FaceTensei_dp
+because that soul would be the most pure.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_no
+What?!,TRUE,FaceReimu_sp,FALSE,Facemaru_no,FALSE,FaceTensei_no
+Then Rakukun…,FALSE,FaceReimu_sp,TRUE,Facemaru_sp,FALSE,FaceTensei_no
+"Her soul has no indication of flaw; it is as pure as snow.",FALSE,FaceReimu_no,FALSE,Facemaru_sp,TRUE,FaceTensei_sw
+You monster!,TRUE,FaceReimu_an2,FALSE,Facemaru_sp,FALSE,FaceTensei_sw
+"Monster, huh?",FALSE,FaceReimu_an2,FALSE,Facemaru_no,TRUE,FaceTensei_no
+Ha ha ha,FALSE,FaceReimu_an,FALSE,Facemaru_no,TRUE,FaceTensei_bk
+Ha ha hahaha,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_bk
+Hahahahahahaha!,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_bk
+"I see that after so many years, humans still have not changed.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+"Reimu, that was a scary laugh.",FALSE,FaceReimu_no,TRUE,Facemaru_sw,FALSE,FaceTensei_dp
+Why are you laughing?,TRUE,FaceReimu_an,FALSE,Facemaru_no,FALSE,FaceTensei_dp
+"I'm laughing at humans' stupidity,",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+"humans' ignorance,",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+and humans' ingratitude!,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_bk
+What?!,TRUE,FaceReimu_sp,FALSE,Facemaru_no,FALSE,FaceTensei_dp
+What?! ,FALSE,FaceReimu_sp,TRUE,Facemaru_sp,FALSE,FaceTensei_dp
+"Without my help, perhaps the humans back then would have been overwhelmed by the ruthless youkai.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_an
+"Once regarded as a god, but now referred to as a monster.",FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+Let me show you,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_dp
+the anger of a god.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceTensei_bk

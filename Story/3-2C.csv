@@ -1,0 +1,10 @@
+﻿1,2,,,
+"Aww…, I was defeated.",FALSE,TRUE,FaceSanae_hp,FaceSeiryuu_lo
+It doesn't feel good at all.,FALSE,TRUE,FaceSanae_hp,FaceSeiryuu_lo
+"Well then, I shall take your share of meteor fragments, too.",TRUE,FALSE,FaceSanae_hp,FaceSeiryuu_lo
+"With this, my faith will surely increase, too!",TRUE,FALSE,FaceSanae_hp,FaceSeiryuu_lo
+But is this really alright?,FALSE,TRUE,FaceSanae_hp,FaceSeiryuu_lo
+What do you mean?,TRUE,FALSE,FaceSanae_sw,FaceSeiryuu_lo
+Those meteor fragments that you've been collecting,FALSE,TRUE,FaceSanae_sw,FaceSeiryuu_lo
+"actually emit brilliant light, and they may make you lose your way, you know?",FALSE,TRUE,FaceSanae_sw,FaceSeiryuu_lo
+What kind of nonsense is that?,TRUE,FALSE,FaceSanae_lo,FaceSeiryuu_lo

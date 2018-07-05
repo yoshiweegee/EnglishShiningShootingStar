@@ -1,0 +1,34 @@
+﻿4,30,,,
+"At last, I finally found it!",TRUE,FALSE,FaceMarisa_hp,FaceRakukun_no
+"So this is the source of magic, huh.",TRUE,FALSE,FaceMarisa_hp,FaceRakukun_no
+Now I can collect the magic energy happilyyy!,TRUE,FALSE,FaceMarisa_hp2,FaceRakukun_no
+This is unexpected.,FALSE,TRUE,FaceMarisa_no,FaceRakukun_dp
+There are still people who are able find this place?,FALSE,TRUE,FaceMarisa_no,FaceRakukun_no
+"If you follow the direction of concentrated magic, it is actually pretty easy to find!",TRUE,FALSE,FaceMarisa_hp,FaceRakukun_no
+"Oh, really? So you must be a person who thirsts for magic power, huh?",FALSE,TRUE,FaceMarisa_no,FaceRakukun_dp
+"Since Kage failed to stop you, you must be really strong.",FALSE,TRUE,FaceMarisa_no,FaceRakukun_dp
+Thanks for the complimeeent.,TRUE,FALSE,FaceMarisa_hp,FaceRakukun_no
+"With that said, what is the purpose of summoning so many shooting stars?",TRUE,FALSE,FaceMarisa_no2,FaceRakukun_no
+To realize my dream.,FALSE,TRUE,FaceMarisa_no,FaceRakukun_no
+Your dream!?,TRUE,FALSE,FaceMarisa_sp,FaceRakukun_no
+"Yes, other than enhancing our magic power,",FALSE,TRUE,FaceMarisa_sp,FaceRakukun_dp
+they are also able to make all our wishes come true.,FALSE,TRUE,FaceMarisa_sp,FaceRakukun_no
+This is so messed up.,TRUE,FALSE,FaceMarisa_no2,FaceRakukun_no
+……,FALSE,TRUE,FaceMarisa_no,FaceRakukun_sw
+Have you ever heard of the “Star God”?,FALSE,TRUE,FaceMarisa_no,FaceRakukun_sw
+What's with this new god…?,TRUE,FALSE,FaceMarisa_lo,FaceRakukun_no
+The power of faith will eventually be conveyed to the Star God,FALSE,TRUE,FaceMarisa_no,FaceRakukun_dp
+"through this prayer ritual,",FALSE,TRUE,FaceMarisa_no,FaceRakukun_no
+"so in the end, that power of faith will be converted into a power of dreams and desires!",FALSE,TRUE,FaceMarisa_no,FaceRakukun_hp
+Is that true!?,TRUE,FALSE,FaceMarisa_sp,FaceRakukun_no
+Certainly.,FALSE,TRUE,FaceMarisa_sp,FaceRakukun_dp
+That's amazing!,TRUE,FALSE,FaceMarisa_an,FaceRakukun_no
+"But, if that happens, Gensokyo will be utter chaos!",TRUE,FALSE,FaceMarisa_an,FaceRakukun_no
+So you want to stop me?,FALSE,TRUE,FaceMarisa_an,FaceRakukun_an
+"Even though I'd like to make a wish to enhance my magic,",TRUE,FALSE,FaceMarisa_an,FaceRakukun_an
+a procedure like enhancing magic power has to abide by the laws of Gensokyo!,TRUE,FALSE,FaceMarisa_an,FaceRakukun_an
+"If you always abide by the law, nothing will happen at all!",FALSE,TRUE,FaceMarisa_an,FaceRakukun_an
+It seems like this conversation is going nowhere.,FALSE,TRUE,FaceMarisa_an,FaceRakukun_no
+O dazzling Star God!,FALSE,TRUE,FaceMarisa_an,FaceRakukun_dp
+Convert these shooting stars into magical power!,FALSE,TRUE,FaceMarisa_an,FaceRakukun_dp
+Protect my people!,FALSE,TRUE,FaceMarisa_an,FaceRakukun_ct

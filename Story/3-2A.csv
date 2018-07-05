@@ -1,0 +1,12 @@
+﻿1,2,,,,,
+I've been defeated…,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceSeiryuu_lo
+I don't like this feeling.,FALSE,FaceReimu_no,FALSE,Facemaru_no,TRUE,FaceSeiryuu_lo
+"Well then, I shall take your meteor fragments, too.",TRUE,FaceReimu_hp,FALSE,Facemaru_no,FALSE,FaceSeiryuu_lo
+Will this really be okay?,FALSE,FaceReimu_hp,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_lo
+What do you mean?,TRUE,FaceReimu_no2,FALSE,Facemaru_sw,FALSE,FaceSeiryuu_lo
+"The power coming from these fragments is very similar to the Miracle Mallet's,",FALSE,FaceReimu_no2,TRUE,Facemaru_no2,FALSE,FaceSeiryuu_lo
+"which means it can grant any wish, but this is at a certain price.",FALSE,FaceReimu_no,TRUE,Facemaru_no,FALSE,FaceSeiryuu_lo
+I'm worried there could be a side-effect…,FALSE,FaceReimu_no,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_lo
+"Oh, for goodness' sake, everything is going to be alright!",TRUE,FaceReimu_hp,FALSE,Facemaru_sw,FALSE,FaceSeiryuu_lo
+You worry too much.,TRUE,FaceReimu_hp,FALSE,Facemaru_sw,FALSE,FaceSeiryuu_lo
+I hope so.,FALSE,FaceReimu_hp,TRUE,Facemaru_sw,FALSE,FaceSeiryuu_lo

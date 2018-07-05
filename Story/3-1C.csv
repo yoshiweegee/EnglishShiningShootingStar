@@ -1,0 +1,23 @@
+﻿15,20,,,
+Why didn't I notice that I entered the forest?,TRUE,FALSE,FaceSanae_no,FaceSeiryuu_sp
+"Argh……, my line of sight is limited here. If this continues, then I won't be able to collect any more meteor fragments.",TRUE,FALSE,FaceSanae_lo,FaceSeiryuu_sp
+I guess I should fly above the trees right away; if not…,TRUE,FALSE,FaceSanae_sw,FaceSeiryuu_sp
+"Eh? You're human, right?",FALSE,TRUE,FaceSanae_sw,FaceSeiryuu_sp
+Why did a human like you come to this faraway forest?,FALSE,TRUE,FaceSanae_sw,FaceSeiryuu_hp
+"About that, I am here to investigate the meteor fragments.",TRUE,FALSE,FaceSanae_no2,FaceSeiryuu_hp
+"I thought that if I were to collect a lot of these,",TRUE,FALSE,FaceSanae_no,FaceSeiryuu_hp
+"faith would increase, too.",TRUE,FALSE,FaceSanae_no,FaceSeiryuu_hp
+So that's how it is.,FALSE,TRUE,FaceSanae_no,FaceSeiryuu_hp
+It might be true because those meteor fragments contain a high amount of magical power.,FALSE,TRUE,FaceSanae_no,FaceSeiryuu_dp
+"Anyway, do you know who summoned these shooting stars?",TRUE,FALSE,FaceSanae_no,FaceSeiryuu_dp
+"I have no idea,",FALSE,TRUE,FaceSanae_no,FaceSeiryuu_no
+"but if I were to absorb the power of the fragments,",FALSE,TRUE,FaceSanae_no,FaceSeiryuu_hp
+"my strength would increase, too.",FALSE,TRUE,FaceSanae_no,FaceSeiryuu_sw
+Are you a youkai?,TRUE,FALSE,FaceSanae_sp,FaceSeiryuu_sw
+Do you really think that a lonely human girl would actually come to this faraway forest?,FALSE,TRUE,FaceSanae_sp,FaceSeiryuu_sw
+"Then, you're here to collect meteor fragments, too?",TRUE,FALSE,FaceSanae_an2,FaceSeiryuu_sw
+So it turned out to be a competitor.,TRUE,FALSE,FaceSanae_an,FaceSeiryuu_sw
+"Even mere humans like you would like to have a competition against youkai? Don't look down at me, little girl;",FALSE,TRUE,FaceSanae_an,FaceSeiryuu_dp
+I've been living for a thousand years as a youkai.,FALSE,TRUE,FaceSanae_an,FaceSeiryuu_dp
+"Being a youkai of the forest,",FALSE,TRUE,FaceSanae_an,FaceSeiryuu_sw
+I shall let you experience why that is!,FALSE,TRUE,FaceSanae_an,FaceSeiryuu_sw
